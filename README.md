@@ -24,6 +24,8 @@ Pode - se fazer o teste de email e senhas incorretos para ver como o sistema de 
 
 Após isso, ao logar corretamente a tela de dashboard será aberta e os testes com responsividade podem ser feitos. Apertando F12(CASO ESTEJA VENDO PELO GOOGLE CHROME) e clicando no icone de mobile, é possível ver a mudança nos dispositivos e ver a RESPONSIVIDADE
 
+Em cima no cabeçalho tem-se o nome do usuário e um toggle para mudar o thema, ao clicar, ele muda para o thema Light ou Dark.
+
 Teste com os gráficos também podem ser feitos
 
 A mudança de mês nos seletores do topo, são essenciais para ver a mudança em todos os gráficos

@@ -1,7 +1,6 @@
 # Help_Desk
 
-Um aplicativo local que ajuda a deixar marcado quais são as ajudas queestão pendentes
-Criado com [Create React App](https://github.com/facebook/create-react-app).
+Um aplicativo local que ajuda a deixar marcado Entradas e saídas de dinheiro
 
 ### 📋 Pré-requisitos
 
@@ -38,8 +37,11 @@ mude também os meses e anos para ver a diferença ee a lista de entradas e saí
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [PHP](https://www.php.net) - Linguagem usada
-* [XAMpP](https://www.apachefriends.org/pt_br/download.html) - Servidor usado
+
+* [ReactJS](https://github.com/facebook/create-react-app) - Biblioteca
+* [Typescript](https://www.typescriptlang.org/docs/) - Linguagem utilizada
+* [Node JS](https://nodejs.org/en/) - RunTime
+* [Yarn](https://yarnpkg.com/) - Gerenciador de Pacote
 
 ---
 ⌨️ com ❤️ por [Weber Rocha](https://weberrocha.com) 😊

@@ -37,8 +37,6 @@ mude também os meses e anos para ver a diferença ee a lista de entradas e saí
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 
 * [ReactJS](https://github.com/facebook/create-react-app) - Biblioteca
 * [Typescript](https://www.typescriptlang.org/docs/) - Linguagem utilizada
